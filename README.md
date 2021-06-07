@@ -14,7 +14,7 @@ O projeto foi idealizado por um grupo de estudantes como um projeto de disciplin
 <Por enquanto desenvolvemos uma página de apresentação do projeto e em seguida postaremos um layout das telas onde o usuário poderar inserir seu projeto e descrever suas experiências.>
 
 <h1>💡Como Executar o projeto</h1>
-o projeto é composto por dois diretórios, um frontend e backend, para executa-los será necessário utilizar o visual code e o eclipse ou spring tools.
+O projeto é composto por dois diretórios, um frontend e backend, para executa-los será necessário utilizar o VisualCode e o Eclipse ou Springtools.
 
 <h1>🛠Tecnologias utilizadas</h1>  
 <h4>Utilizados no Frontend</h4>
@@ -26,7 +26,7 @@ o projeto é composto por dois diretórios, um frontend e backend, para executa-
 <li>MATERIALIZE CSS.</li>
 </ul>
 
-<h4>Serâo utilizados no Backend</h4>
+<h4>Serão utilizados no Backend</h4>
 <ul>
 <li>JAVA;</li>
 <li>SPRINGBOOT;</li>
