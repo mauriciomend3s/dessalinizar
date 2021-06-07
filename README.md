@@ -15,7 +15,7 @@ O projeto foi idealizado por um grupo de estudantes como um projeto de disciplin
 <li>html;</li>
 <li>css;/li>
 <li>javascript;/li>
-<li>java./>
+<li>java.</li>
 </ul>
 
 <h1>💪Como contribuir para o projeto</h1>
