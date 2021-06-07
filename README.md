@@ -12,5 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Como contribuir para o projeto
+<ul>
+<li>Faça um fork do projeto</li>
+<li>Crie uma nova branch com as suas alterações: git checkout -b my-feature</li>
+<li>alve as alterações e crie uma mensagem de commit contando o que você fez: git commit -m "feature: My new feature"</li>
+<li>Envie as suas alterações: git push origin my-feature</li>
+
+</ul>
