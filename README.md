@@ -45,8 +45,8 @@ O projeto é composto por dois diretórios, um frontend e backend, para executa-
 <h1>📝Licença</h1>
 <p>Este projeto esta sobe a licença MIT.</p>
 
-<h1>💬Contato</h2>
-<p>dessalinizar@gmail.com</p>
+<h1>💬Contato</h1>
+ <h4><a href="mailto:mauricio.mend3s@gmail.com">mauricio.mend3s@gmail.com👈</a></h4>
 <!--
 **Dessalinizar/dessalinizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
