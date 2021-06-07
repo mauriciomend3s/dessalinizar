@@ -11,7 +11,7 @@ O projeto foi idealizado por um grupo de estudantes como um projeto de disciplin
 <p>No primeiro momento o dessalinizar terá a função de cadastro de um projeto. O colaborador irá cadastrar um projeto feito em sua casa descrevendo o passo a passo, evoluções e materiasi utilizados, podendo também inserir fotos e plantas do que foi projetado.</p>
 
 <h1>🎨Layout</h1>
-<p>Por enquanto desenvolvemos uma página de apresentação do projeto <a href="https://mmy8z.csb.app/" target="_blank">dessalinizar.com.br</a> e em seguida postaremos um layout das telas onde o usuário poderar inserir seu projeto e descrever suas experiências.</p>
+<p>Por enquanto desenvolvemos uma página de apresentação do projeto  <a href="https://mmy8z.csb.app/" target="_blank">dessalinizar.com.br</a> e em seguida postaremos um layout das telas onde o usuário poderar inserir seu projeto e descrever suas experiências.</p>
 
 <h1>💡Como Executar o projeto</h1>
 O projeto é composto por dois diretórios, um frontend e backend, para executa-los será necessário utilizar o VisualCode e o Eclipse ou Springtools.
