@@ -4,23 +4,35 @@
 ![image](https://user-images.githubusercontent.com/85455346/121068606-deb58700-c7a2-11eb-8064-deab868b17ab.png)
 
 <h1>💻Sobre o projeto</h1>
-
-<p>Dessalinizar - é uma forma de conectar várias pessoas que tem curiosidade como a dessalinização do mar é feita permitindo que possam trocar seus aprendizados e projetos.
-O projeto foi idealizado por um grupo de estudantes como um projeto de disciplina referente a criação de um projeto open source.</p>
+<p>Dessalinizar - É uma forma de conectar várias pessoas que tem curiosidade como a dessalinização do mar é feita permitindo que possam trocar seus aprendizados e projetos.
+O projeto foi idealizado por um grupo de estudantes como um projeto de disciplina referente a criação de um projeto open source. Estamos ainda no estágio embrionário do projeto e aceitamos algumas sujestões referente ao desenvolvimento do próprio.</p>
 
 <h1>⚙️Funcionalidades</h1>
+<p>No primeiro momento o dessalinizar terá a função de cadastro de um projeto. O colaborador irá cadastrar um projeto feito em sua casa descrevendo o passo a passo, evoluções e materiasi utilizados, podendo também inserir fotos e plantas do que foi projetado.</p>
 
 <h1>🎨Layout</h1>
+<Por enquanto desenvolvemos uma página de apresentação do projeto e em seguida postaremos um layout das telas onde o usuário poderar inserir seu projeto e descrever suas experiências.>
 
 <h1>💡Como Executar o projeto</h1>
+o projeto é composto por dois diretórios, um frontend e backend, para executa-los será necessário utilizar o visual code e o eclipse ou spring tools.
 
 <h1>🛠Tecnologias utilizadas</h1>  
+<h4>Utilizados no Frontend</h4>
 <ul>
-<li>html;</li>
-<li>css;</li>
-<li>javascript;</li>
-<li>java.</li>
+<li>HTML;</li>
+<li>CSS;</li>
+<li>JAVASCRIPT;</li>
+<li>BOOTSTRAP;</li>
+<li>MATERIALIZE CSS.</li>
 </ul>
+
+<h4>Serâo utilizados no Backend</h4>
+<ul>
+<li>JAVA;</li>
+<li>SPRINGBOOT;</li>
+<li>THYMELEAF.</li>
+</ul>
+
 
 <h1>💪Como contribuir para o projeto</h1>
 <ul>
