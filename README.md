@@ -15,11 +15,13 @@ O projeto foi idealizado por um grupo de estudantes como um projeto de disciplin
 
 <h3>Página de apresentação</h3>
 
-![image](https://user-images.githubusercontent.com/85455346/121073369-cea0a600-c7a8-11eb-8e54-051dcda3ee19.png)
+![image](https://user-images.githubusercontent.com/85455346/121074154-d6ad1580-c7a9-11eb-86f5-d40af3102d2a.png)
 
-![image](https://user-images.githubusercontent.com/85455346/121073545-04458f00-c7a9-11eb-805d-30444981f34a.png)
+![image](https://user-images.githubusercontent.com/85455346/121074261-fcd2b580-c7a9-11eb-841d-320870b3249c.png)
 
-![image](https://user-images.githubusercontent.com/85455346/121073660-2c34f280-c7a9-11eb-8cbc-1a6ed101b254.png)
+![image](https://user-images.githubusercontent.com/85455346/121074340-1a078400-c7aa-11eb-9345-a3ba0d2c096a.png)
+
+![image](https://user-images.githubusercontent.com/85455346/121074419-35728f00-c7aa-11eb-8486-d3f494204ecb.png)
 
 
 <h1>💡Como Executar o projeto</h1>
