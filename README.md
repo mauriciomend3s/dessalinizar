@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1></h1>
+<h1>Como contribuir para o projeto</h1>
 <ul>
 <li>Faça um fork do projeto</li>
 <li>Crie uma nova branch com as suas alterações: git checkout -b my-feature</li>
