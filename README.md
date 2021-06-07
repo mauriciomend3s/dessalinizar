@@ -13,8 +13,8 @@ O projeto foi idealizado por um grupo de estudantes como um projeto de disciplin
 <h1>🛠Tecnologias utilizadas</h1>  
 <ul>
 <li>html;</li>
-<li>css;/li>
-<li>javascript;/li>
+<li>css;</li>
+<li>javascript;</li>
 <li>java.</li>
 </ul>
 
