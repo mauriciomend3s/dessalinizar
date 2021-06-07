@@ -8,7 +8,7 @@
 O projeto foi idealizado por um grupo de estudantes como um projeto de disciplina referente a criação de um projeto open source. Estamos ainda no estágio embrionário do projeto e aceitamos algumas sujestões referente ao desenvolvimento do próprio.</p>
 
 <h1>⚙️Funcionalidades</h1>
-<p>No primeiro momento o dessalinizar terá a função de cadastro de um projeto. O colaborador irá cadastrar um projeto feito em sua casa descrevendo o passo a passo, evoluções e materiasi utilizados, podendo também inserir fotos e plantas do que foi projetado.</p>
+<p>No primeiro momento o dessalinizar terá a função de cadastro de um projeto. O colaborador irá cadastrar um projeto feito em sua casa descrevendo o passo a passo, evoluções e materiais utilizados, podendo também inserir fotos e plantas do que foi projetado.</p>
 
 <h1>🎨Layout</h1>
 <p>Por enquanto desenvolvemos uma página de apresentação do projeto  <a href="https://mmy8z.csb.app/" target="_blank">dessalinizar.com.br</a> e em seguida postaremos um layout das telas onde o usuário poderar inserir seu projeto e descrever suas experiências.</p>
