@@ -24,7 +24,8 @@ O projeto foi idealizado por um grupo de estudantes como um projeto de disciplin
 
 
 <h1>💡Como Executar o projeto</h1>
-O projeto é composto por dois diretórios, um frontend e backend, para executa-los será necessário utilizar o VisualCode e o Eclipse ou Springtools.
+O projeto é composto por dois diretórios, um frontend e outro backend, para executa-los será necessário utilizar o VisualStudio Code e o Eclipse ou Springtools.
+O ideal é que tenha o git em sua máquina para fazer os commits do projeto.
 
 <h1>🛠Tecnologias utilizadas</h1>  
 <h4>Utilizados no Frontend</h4>
