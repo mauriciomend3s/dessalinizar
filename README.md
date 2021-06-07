@@ -14,8 +14,11 @@ O projeto foi idealizado por um grupo de estudantes como um projeto de disciplin
 <p>Por enquanto desenvolvemos uma página de apresentação do projeto  <a href="https://mmy8z.csb.app/" target="_blank">dessalinizar.com.br</a> e em seguida postaremos um layout das telas onde o usuário poderar inserir seu projeto e descrever suas experiências.</p>
 
 <h3>Página de apresentação</h3>
+
 ![image](https://user-images.githubusercontent.com/85455346/121073369-cea0a600-c7a8-11eb-8e54-051dcda3ee19.png)
+
 ![image](https://user-images.githubusercontent.com/85455346/121073545-04458f00-c7a9-11eb-805d-30444981f34a.png)
+
 ![image](https://user-images.githubusercontent.com/85455346/121073660-2c34f280-c7a9-11eb-8cbc-1a6ed101b254.png)
 
 
