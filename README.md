@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>Sobre o projeto</h1>
 <p>Dessalinizar - é uma forma de conectar várias pessoas que tem curiosidade como a dessalinização do mar é feita permitindo que possam trocar seus aprendizados e projetos.
-O projeto foi idealizado para que todos possam ter um conheciimento dos procedimentos e possam compartilhar seus experimentos para que outras pessoas tenham conhecimento.</p>
+O projeto foi idealizado por um grupo de estudantes como um projeto de disciplina referente a criação de um projeto open source.</p>
 <h1>Como contribuir para o projeto</h1>
 <ul>
 <li>Faça um fork do projeto</li>
