@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+
+![image](https://user-images.githubusercontent.com/85455346/121068606-deb58700-c7a2-11eb-8064-deab868b17ab.png)
+
 <h1>💻Sobre o projeto</h1>
 
 <p>Dessalinizar - é uma forma de conectar várias pessoas que tem curiosidade como a dessalinização do mar é feita permitindo que possam trocar seus aprendizados e projetos.
